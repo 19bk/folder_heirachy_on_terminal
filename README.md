@@ -24,7 +24,7 @@ Note: Replace your-username with your actual GitHub username and folder-visualiz
 ```sh
 go run main.go /absolute/path/to/directory
 ```
-Run for help
+For help run
 ```sh
 go run main.go -h
 ```
