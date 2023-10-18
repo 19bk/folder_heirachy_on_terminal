@@ -24,7 +24,10 @@ Note: Replace your-username with your actual GitHub username and folder-visualiz
 ```sh
 go run main.go /absolute/path/to/directory
 ```
-
+Run for help
+```sh
+go run main.go -h
+```
 Ensure to replace /absolute/path/to/directory with the actual path of the directory you want to visualize.
 
 ### License
