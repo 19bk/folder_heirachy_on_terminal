@@ -10,5 +10,5 @@ The application imports essential packages such as `fmt`, `io/ioutil`, `os`, and
 ### The `printDirStructure` Function
 This is a recursive function that reads and prints the structure of the given directory. It uses `ioutil.ReadDir` to read the directory contents and iterates through them, printing each item. If it encounters a sub-directory, it calls itself recursively to print the sub-directory's contents.
 
-```go
-![Screenshot of the code](code.png)
+
+![Screenshot of the code](code_.png)
