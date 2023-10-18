@@ -28,4 +28,4 @@ go run main.go /absolute/path/to/directory
 Ensure to replace /absolute/path/to/directory with the actual path of the directory you want to visualize.
 
 ### License
-This project is open-source and available under the MIT License. Refer to the [LICENSE!](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
+This project is open-source and available under the MIT License. Refer to the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
