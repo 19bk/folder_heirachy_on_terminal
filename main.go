@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 	"strings"
+	
 )
 
 func printDirStructure(path string, prefix string, all bool) {
